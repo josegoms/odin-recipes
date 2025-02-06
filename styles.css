@@ -1,6 +1,16 @@
 .header {
-
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 20px;
 }
-.table {
-    
+ul {
+    list-style-type: square;
+    display: grid;
+    justify-content: center;
+    padding: 10px;
+}
+ul li {
+    border-left: 5px solid orange;
+    padding: 10px;
 }

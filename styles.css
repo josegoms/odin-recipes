@@ -1,8 +1,14 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
 .header {
     background-color: orange;
     color: white;
     text-align: center;
     padding: 20px;
+    font-size: 40px;
 }
 ul {
     list-style-type: square;
